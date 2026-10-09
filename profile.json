@@ -1,0 +1,47 @@
+{
+  "name": "Huaike Yu",
+  "initials": "HY",
+  "email": "huaike.yu@unswalumni.com",
+  "role": "Research Assistant",
+  "institution": "Qilu University of Technology (Shandong Academy of Sciences)",
+  "guidance": "Qi Li",
+  "guidanceInstitution": "Qilu University of Technology / Shandong Academy of Sciences",
+  "introduction": "My research interests include invisible image watermarking, steganography, and AI security. My academic background spans simulation and immersive technologies, international business, and business English.",
+  "researchInterests": ["Image Watermarking", "Steganography", "AI Security", "Immersive Technologies"],
+  "education": [
+    {"id": "unsw", "institution": "University of New South Wales (UNSW)", "degree": "Master’s Degree in Simulation and Immersive Technologies", "period": "February 2024 – August 2025", "tags": ["Master’s Degree", "Immersive Technologies"], "icon": "🎓"},
+    {"id": "newcastle", "institution": "University of Newcastle", "degree": "Bachelor’s Degree in International Business", "period": "July 2022 – June 2023", "tags": ["Bachelor’s Degree", "International Business"], "icon": "🌏"},
+    {"id": "sisu", "institution": "Sichuan International Studies University", "degree": "Bachelor’s Degree in Business English", "period": "September 2019 – June 2023", "tags": ["Bachelor’s Degree", "Business English"], "icon": "📚"}
+  ],
+  "experience": [
+    {"id": "prism", "institution": "Sichuan Prism Cloud Technology", "role": "Market Researcher", "period": "July 2023 – January 2024", "kind": "Off-Campus Internship", "summary": "Translated business needs into AI code audit research tasks and conducted quantitative and qualitative market research.", "details": ["Coordinated with the Automated Code Audit department to translate business needs into AI code audit research tasks.", "Designed market research plans and conducted quantitative and qualitative studies.", "Analyzed data from industry sources and academic journals, and prepared market research reports."], "tags": ["Market Research", "AI Code Audit", "Data Analysis"], "icon": "🔎"},
+    {"id": "boc", "institution": "Bank of China – Pengzhou Sub-branch", "role": "Intern", "period": "June 2021 – September 2021", "kind": "Off-Campus Internship", "summary": "Supported customer relationships, handled 10–20 account openings daily, and contacted more than 20 customers each day.", "details": ["Maintained and developed customer relationships, handling 10–20 account openings daily and resolving inquiries.", "Matched customer needs with market information and coordinated with business departments.", "Contacted more than 20 customers daily to share timely banking updates."], "tags": ["Customer Relations", "Banking", "Communication"], "icon": "🏦"},
+    {"id": "operations", "institution": "Innovation and Entrepreneurship Practice Base", "role": "Director of Operations", "period": "October 2019 – October 2021", "kind": "On-Campus Practice", "summary": "Coordinated daily operations and academic events, including the 70th anniversary celebration and mentor afternoon tea series.", "details": ["Coordinated daily operations and academic activities, including the 70th anniversary celebration and mentor afternoon tea series.", "Prepared weekly reports and conducted data analysis.", "Assisted with staff management, student recruitment, and interview planning."], "institutionNote": "Institution name as supplied: Innovation and Entrepreneurship Practice Base of International Business School University.", "tags": ["Leadership", "Event Operations", "Recruitment"], "icon": "🌱"},
+    {"id": "shopee", "institution": "E-Commerce Practice – Shopee Platform Management", "role": "Operations Internship", "period": "September 2021 – November 2021", "kind": "On-Campus Practice", "summary": "Researched Southeast Asian consumer habits, selected and listed more than 15 products daily, and developed digital marketing plans.", "details": ["Researched Southeast Asian consumer habits; selected and listed more than 15 products daily.", "Optimized product content, keywords, and order processing workflows.", "Designed digital marketing plans using SEO and social media strategies.", "Collected and analyzed data on user behavior and sales trends."], "tags": ["E-Commerce", "SEO", "Digital Marketing"], "icon": "🛍️"}
+  ],
+  "skills": [
+    {"category": "Programming", "items": ["Python"], "icon": "💻"},
+    {"category": "AI & Machine Learning", "items": ["Machine Learning", "Deep Learning"], "icon": "🧠"},
+    {"category": "Office Tools", "items": ["Microsoft Office"], "icon": "🗂️"},
+    {"category": "Data Analysis", "items": ["Regression", "Classification", "Forecasting"], "icon": "📊"},
+    {"category": "Design & Modeling", "items": ["CAD", "Maya (learning)"], "icon": "✏️"},
+    {"category": "2D / 3D", "items": ["2D Drafting", "Basic 3D Modeling"], "icon": "🧊"},
+    {"category": "Immersive Technologies", "items": ["VR / AR Applications"], "icon": "🥽"},
+    {"category": "Business", "items": ["Marketing", "International Trade", "Market Research"], "icon": "🌏"},
+    {"category": "Digital Marketing", "items": ["SEO", "Social Media Strategy"], "icon": "📣"},
+    {"category": "Research", "items": ["Quantitative Research", "Qualitative Research"], "icon": "🔬"}
+  ],
+  "publications": [
+    {"id": "push-pull", "title": "Where Does the Watermark Hide? Push-Pull Disentanglement for Invisible Watermark Removal", "authors": ["Jidong Yang", "Huaike Yu", "Qi Li", "Chunpeng Wang", "Yuantian Miao", "Suo Gao", "Xiao Chen"], "year": 2026, "venue": "arXiv:2609.31722", "status": "Preprint", "url": "https://arxiv.org/abs/2609.31722", "tags": ["Watermark Removal", "Disentanglement"], "icon": "🧩"},
+    {"id": "survey", "title": "Invisible Image Watermark Attacks: A Survey", "authors": ["Jidong Yang", "Qi Li", "Huaike Yu", "Xiaoyu Wang", "Chunpeng Wang", "Bin Ma", "Suo Gao", "Jinwei Wang", "Xiaolong Li"], "year": 2026, "venue": "Preprints.org", "status": "Preprint", "url": "https://www.preprints.org/manuscript/202609.1697", "tags": ["Watermark Attacks", "Survey"], "icon": "📖"},
+    {"id": "disentangle-drop", "title": "Disentangle and Drop: Robust Universal Removal of Image Watermarks via Reconstructive Grayscale Residual Decomposition", "authors": ["Qi Li", "Jidong Yang", "Feng-Lei Fan", "Yuantian Miao", "Xiao Chen", "Huaike Yu", "Chunpeng Wang", "Suo Gao", "Herbert Ho-Ching Iu", "Bin Ma"], "year": 2026, "venue": "arXiv:2609.31693", "status": "Preprint", "url": "https://arxiv.org/abs/2609.31693", "tags": ["Watermark Removal", "Residual Decomposition"], "icon": "🔬"},
+    {"id": "style-cover", "title": "Style as Cover: Deep Image Steganography via Stylized Transmission", "authors": ["Qi Li", "Jidong Yang", "Huaike Yu", "Chunpeng Wang", "Suo Gao", "Herbert Ho-Ching Iu", "Yuantian Miao", "Bin Ma", "Xiao Chen"], "year": 2026, "venue": "arXiv:2609.22392", "status": "Preprint", "url": "https://arxiv.org/abs/2609.22392", "tags": ["Steganography", "Stylized Transmission"], "icon": "🎨"},
+    {"id": "one-prompt", "title": "One Prompt Is Enough: Watermark Laundering Through Foundation Image Models", "authors": ["Jidong Yang", "Qi Li", "Wei Zong", "Yang-Wai Chow", "Willy Susilo", "Huaike Yu", "Chunpeng Wang", "Suo Gao"], "year": 2026, "venue": "arXiv:2609.01249", "status": "Preprint", "url": "https://arxiv.org/abs/2609.01249", "tags": ["Watermark Laundering", "Foundation Models"], "icon": "✨"},
+    {"id": "llm-security", "title": "Research on adversarial attack and defense of large language models", "authors": ["Jidong Yang", "Qiangyun Chi", "Wenqiang Xu", "Huaike Yu"], "year": 2024, "venue": "Applied and Computational Engineering 93 (1), 105–113", "status": "Published Article", "url": "https://doi.org/10.54254/2755-2721/93/20240922", "tags": ["LLM Security", "Adversarial Attacks"], "icon": "🛡️"}
+  ],
+  "projects": [
+    {"program": "National Natural Science Foundation of China (NSFC)", "role": "Project Participant", "identifiers": ["62502250", "62406051", "62302249", "62541206", "62272255"]},
+    {"program": "Taishan Scholars Program of Shandong Province", "role": "Project Participant", "identifiers": ["tsqnz20250747"]},
+    {"program": "Shandong Provincial Young Science and Technology Talent Support Program", "role": "Project Participant", "identifiers": ["SDAST2025QTB030"]}
+  ]
+}

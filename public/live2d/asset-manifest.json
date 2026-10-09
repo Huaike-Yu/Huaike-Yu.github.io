@@ -1,0 +1,71 @@
+{
+  "character": "Yu",
+  "outfit": "0011 Manufacture / XII",
+  "webRevision": "63d96eeba95d3e6d65479e9c7ff27a49913ecb5c",
+  "modelRevision": "8a3857c250a5c271429aefa82c660ff35803166e",
+  "files": [
+    {
+      "file": "vendor/spine-webgl.js",
+      "source": "https://raw.githubusercontent.com/SHUAXINDIARY/ArknightsLive2d-Web/63d96eeba95d3e6d65479e9c7ff27a49913ecb5c/assets/js/spine-webgl.js",
+      "bytes": 497468,
+      "sha256": "55ccefff62a08e560928ef74d881352951a270ff05df1ded63cadff55c10a155",
+      "originalSha256": "84e6e358695302b64d7bab0f0560d4151e9609cc671918cef7639695c09d5e02",
+      "adaptations": [
+        "encodeURIComponent(url) -> encodeURI(url) (2 occurrences); preserve URL separators.",
+        "encodeURIComponent(path) -> encodeURI(path) (1 occurrences); preserve URL separators."
+      ]
+    },
+    {
+      "file": "models/chibi/model.atlas",
+      "source": "https://raw.githubusercontent.com/isHarryh/Ark-Models/8a3857c250a5c271429aefa82c660ff35803166e/models/2026_yu_nian%2312/build_char_2026_yu_nian%2312.atlas",
+      "bytes": 14868,
+      "sha256": "8974899074408c4b592ef8144893a1cc5c688b5d329bef1553a446b44f41230d",
+      "originalSha256": "99c5dcbf1586095f7fe7c793e44a30559a72bc1e7b229d7ad5ab9798659af4e3",
+      "adaptations": [
+        "Rename the single atlas page to model.png."
+      ]
+    },
+    {
+      "file": "models/chibi/model.png",
+      "source": "https://raw.githubusercontent.com/isHarryh/Ark-Models/8a3857c250a5c271429aefa82c660ff35803166e/models/2026_yu_nian%2312/build_char_2026_yu_nian%2312.png",
+      "bytes": 624455,
+      "sha256": "ccfdac92db484e004867047e1a852f28fe2f472b62c513ae005443b10d6b79c3",
+      "originalSha256": "ccfdac92db484e004867047e1a852f28fe2f472b62c513ae005443b10d6b79c3",
+      "adaptations": []
+    },
+    {
+      "file": "models/chibi/model.skel",
+      "source": "https://raw.githubusercontent.com/isHarryh/Ark-Models/8a3857c250a5c271429aefa82c660ff35803166e/models/2026_yu_nian%2312/build_char_2026_yu_nian%2312.skel",
+      "bytes": 741089,
+      "sha256": "2b425bd96a54b3980d038b4c0bc19c451b38f6154cde0583531f6adc36488656",
+      "originalSha256": "2b425bd96a54b3980d038b4c0bc19c451b38f6154cde0583531f6adc36488656",
+      "adaptations": []
+    },
+    {
+      "file": "models/portrait/model.atlas",
+      "source": "https://raw.githubusercontent.com/isHarryh/Ark-Models/8a3857c250a5c271429aefa82c660ff35803166e/models_illust/dyn_illust_2026_yu_nian%2312/dyn_illust_char_2026_yu_nian%2312.atlas",
+      "bytes": 62143,
+      "sha256": "6555670aeec8965d6b1f83a2431dc5480e86b09ca6971d3452b7e1ece212c944",
+      "originalSha256": "e6ff7c1dd95115c80b6bdb578db8d905cceab263e651cf957793de55922aacca",
+      "adaptations": [
+        "Rename the single atlas page to model.png."
+      ]
+    },
+    {
+      "file": "models/portrait/model.png",
+      "source": "https://raw.githubusercontent.com/isHarryh/Ark-Models/8a3857c250a5c271429aefa82c660ff35803166e/models_illust/dyn_illust_2026_yu_nian%2312/dyn_illust_char_2026_yu_nian%2312.png",
+      "bytes": 7649883,
+      "sha256": "3417852f00062a0124091d21a6ff99e470efd5255542bd55f3ab6c88c460ffab",
+      "originalSha256": "3417852f00062a0124091d21a6ff99e470efd5255542bd55f3ab6c88c460ffab",
+      "adaptations": []
+    },
+    {
+      "file": "models/portrait/model.skel",
+      "source": "https://raw.githubusercontent.com/isHarryh/Ark-Models/8a3857c250a5c271429aefa82c660ff35803166e/models_illust/dyn_illust_2026_yu_nian%2312/dyn_illust_char_2026_yu_nian%2312.skel",
+      "bytes": 2170492,
+      "sha256": "dedcbf9667886cba075acb2e04ffe8e64ee4c19835da45883921e3052d1c9ca4",
+      "originalSha256": "dedcbf9667886cba075acb2e04ffe8e64ee4c19835da45883921e3052d1c9ca4",
+      "adaptations": []
+    }
+  ]
+}
